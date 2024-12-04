@@ -1,0 +1,15 @@
+cff-version: 1.0.0
+mesage: "If you use this software, please cite as below"
+title: "Text Peace Index Classifier"
+authors:
+  - family-names: "Lara-Martinez"
+    given-names: "Pablo Alberto"
+  - family-names: "Guzman-Vargas"
+    given-names: "Lev"
+  - family-names: "Obregon-Quintana"
+    given-names: "Bibiana"
+  - family-names: "Liebovitch"
+    given-names: "Larry S."
+version: "1.0.0"  
+date-released: "2024-12-04" 
+url: "https://github.com/Pablo-Alberto-Lara-Martinez/TextPeaceIndexClassifier"

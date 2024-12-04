@@ -1,0 +1,11 @@
+# Temporal files
+*.log 
+*.tmp 
+data/*
+!data/.gitkeep
+
+# Conf files
+.env 
+
+# Dependencies
+__pycache__/
