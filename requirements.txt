@@ -1,0 +1,16 @@
+# Data manipulation and scientific computing
+pandas
+numpy
+scipy
+
+# Machine learning and metrics
+scikit-learn
+
+# Embeddings and vector database
+chromadb
+
+# Deep learning framework
+tensorflow
+
+# Progress bars
+tqdm
